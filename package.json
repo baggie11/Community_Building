@@ -1,0 +1,16 @@
+{
+  "name": "story-wall-of-hope",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Story Wall of Hope - a Next.js single-page site with a JSON-file store and a built-in admin backend.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^15.1.6",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
